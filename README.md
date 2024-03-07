@@ -13,7 +13,9 @@ Conclusion >>> LangChain: The Python library that supercharges your NLP capabili
 
 ## Author✍️
 
-**Cognitive Class AI - Sina Nazeri, Ichsan Takwa💎**
+**Cognitive Class AI - Sina Nazeri**
+
+**Translator : Ichsan Takwa💎**
 
 ### Mentee Assignment📝📂
 
